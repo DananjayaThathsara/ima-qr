@@ -1,0 +1,4 @@
+#Sun Jan 30 12:54:01 IST 2022
+base.0=/Users/isuru/Documents/flutter_projects/ima_qr/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
